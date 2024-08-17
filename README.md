@@ -1,6 +1,6 @@
 # 使用
 
-下载video2mp3.py后打开即可使用（请看环境配置一栏配置环境），或在Realeses下载video2mp3_language_with-ff.zip食用（系统要求Windows10及以上系统）。
+下载[video2mp3.py](https://github.com/yhgzs-111/video2mp3/releases/latest/download/video2mp3.py)后打开即可使用（请看环境配置一栏配置环境），或在Realeses下载[video2mp3_language_with-ff.zip](https://github.com/yhgzs-111/video2mp3/releases/latest/download/video2mp3_language_with-ff.zip)使用（系统要求Windows10及以上系统）。
 
 # 环境配置
 
