@@ -1,28 +1,41 @@
-[简体中文说明文档](https://github.com/yhgzs-111/video2mp3/blob/main/README_zh-cn.md)
+[简体中文说明文档 Simplified Chinese Guide](https://github.com/yhgzs-111/video2mp3/blob/main/README_zh-cn.md)
 
-# About
+# 📜 About
 
-This script is developed using **Python** and relies on **ffmpeg** and **ffprobe**. Additionally, **Nuitka** is used to package the script into an executable file.
+This script is developed using **Python** and relies on the following tools:
 
-# Download
+- **ffmpeg**
+- **ffprobe**
 
-## Source Code
+Additionally, the script is packaged into an executable file using **Nuitka**.
 
-You can download [video2mp3.py](https://github.com/yhgzs-111/video2mp3/releases/latest/download/video2mp3.py) from the **Releases** page and use it directly (please refer to the [Environment Setup](#environment-setup) section for configuration).
+# 📥 Download
 
-## Executable File
+## 📂 Source Code
 
-For users who prefer not to configure the environment, you can download [video2mp3_language_with-ff.zip](https://github.com/yhgzs-111/video2mp3/releases/latest/download/video2mp3_language_with-ff.zip) from the **Releases** page and use it (System requirements: **Windows 10** or later).
+You can download the latest `video2mp3.py` file from the [**Releases**](https://github.com/yhgzs-111/video2mp3/releases/latest/download/video2mp3.py) page. After downloading, you can use it directly (please refer to the [Environment Setup](#environment-setup) section for configuration).
 
-# Environment Setup
+## 🗃️ Executable File
 
-> **Required only if using the source code**
+For users who do not need to configure the environment, you can download `video2mp3_language_with-ff.zip` from the [**Releases**](https://github.com/yhgzs-111/video2mp3/releases/latest/download/video2mp3_language_with-ff.zip) page and use it.
 
-- **ffmpeg** and its tools (**ffmpeg**, **ffprobe**) must be installed.
-- **Python** must be installed.
-- Use **pip** to install the following library: **PyQt5**.
-- System requirements: **Windows 10** or later.
+> **System Requirements**: `Windows 10` and above
 
-# Disclaimer
+# ⚙️ Environment Setup
 
-**This script is still in its early stages. Please do not use it for abnormal conversion operations. The author is not responsible for any consequences that may arise.**
+> **Note**: Applicable only to users using the source code
+
+1. **Install Dependency Tools**:
+   - [**ffmpeg**](https://ffmpeg.org/)
+
+2. **Install Python**:
+   - [Python Official Download Page](https://www.python.org/downloads/)
+
+3. **Install Dependency Libraries**:
+   ```bash
+   pip install PyQt5
+4. **System Requirements**: `Windows 10` and above
+
+# ⚠️ Disclaimer
+
+> **Important Notice**: This script is still in the early stages of development. Please do not use it for non-standard conversion operations. The author takes no responsibility for any consequences arising from its use.
