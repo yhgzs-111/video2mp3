@@ -10,7 +10,7 @@
 
 ## 可执行文件
 
-在**Realeses**下载[video2mp3_language_with-ff.zip](https://github.com/yhgzs-111/video2mp3/releases/latest/download/video2mp3_language_with-ff.zip)使用（系统要求Windows10及以上系统）。
+在**Releases**下载[video2mp3_language_with-ff.zip](https://github.com/yhgzs-111/video2mp3/releases/latest/download/video2mp3_language_with-ff.zip)使用（系统要求Windows10及以上系统）。
 
 # 环境配置
 
