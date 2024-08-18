@@ -6,17 +6,17 @@
 
 ## 源代码
 
-在Realeses下载[video2mp3.py](https://github.com/yhgzs-111/video2mp3/releases/latest/download/video2mp3.py)后打开即可使用（请看环境配置一栏配置环境）。
+在**Releases**下载[video2mp3.py](https://github.com/yhgzs-111/video2mp3/releases/latest/download/video2mp3.py)后打开即可使用（请看环境配置一栏配置环境）。
 
 ## 可执行文件
 
-在Realeses下载[video2mp3_language_with-ff.zip](https://github.com/yhgzs-111/video2mp3/releases/latest/download/video2mp3_language_with-ff.zip)使用（系统要求Windows10及以上系统）。
+在**Realeses**下载[video2mp3_language_with-ff.zip](https://github.com/yhgzs-111/video2mp3/releases/latest/download/video2mp3_language_with-ff.zip)使用（系统要求Windows10及以上系统）。
 
 # 环境配置
 
 (仅通过**源代码使用**需配置环境)
 
-需要安装ffmpeg（ffmpeg、ffprobe）；需要安装python；需要安装pip库：PyQt5；系统要求Windows10及以上系统。
+需要安装**ffmpeg**（**ffmpeg**、**ffprobe**）；需要安装**Python**；需要安装**pip**库：**PyQt5**；系统要求**Windows 10**及以上系统。
 
 # 免责声明
 
