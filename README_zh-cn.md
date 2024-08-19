@@ -5,13 +5,11 @@
 - **ffmpeg**
 - **ffprobe**
 
-此外，脚本通过 **Nuitka** 打包为可执行文件。
-
 # 📥 下载
 
 ## 📂 源代码
 
-您可以在 [**Releases**](https://github.com/yhgzs-111/video2mp3/releases/latest/download/video2mp3.py) 页面下载最新的 `video2mp3.py` 文件。下载后即可直接使用（请参照[环境配置](#环境配置)部分进行配置）。
+您可以在 [**Releases**](https://github.com/yhgzs-111/video2mp3/releases/latest/download/video2mp3.py) 页面下载最新的 `video2mp3.py` 文件。下载后即可直接使用（请参照[环境配置](#⚙️-环境配置)部分进行配置）。
 
 > **系统要求**：`Windows 10` 及以上
 
