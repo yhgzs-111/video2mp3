@@ -13,7 +13,7 @@ Additionally, the script is packaged into an executable file using **Nuitka**.
 
 ## 📂 Source Code
 
-You can download the latest `video2mp3.py` file from the [**Releases**](https://github.com/yhgzs-111/video2mp3/releases/latest/download/video2mp3.py) page. After downloading, you can use it directly (please refer to the [Environment Setup](#environment-setup) section for configuration).
+You can download the latest `video2mp3.py` file from the [**Releases**](https://github.com/yhgzs-111/video2mp3/releases/latest/download/video2mp3.py) page. After downloading, you can use it directly (please refer to the [Environment Setup](#⚙️-Environment-Setup) section for configuration).
 
 > **System Requirements**: `Windows 10` and above
 
