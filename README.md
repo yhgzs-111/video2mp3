@@ -15,15 +15,9 @@ Additionally, the script is packaged into an executable file using **Nuitka**.
 
 You can download the latest `video2mp3.py` file from the [**Releases**](https://github.com/yhgzs-111/video2mp3/releases/latest/download/video2mp3.py) page. After downloading, you can use it directly (please refer to the [Environment Setup](#environment-setup) section for configuration).
 
-## 🗃️ Executable File
-
-For users who do not need to configure the environment, you can download `video2mp3_language_with-ff.zip` from the [**Releases**](https://github.com/yhgzs-111/video2mp3/releases/latest/download/video2mp3_language_with-ff.zip) page and use it.
-
 > **System Requirements**: `Windows 10` and above
 
 # ⚙️ Environment Setup
-
-> **Note**: Applicable only to users using the source code
 
 1. **Install Dependency Tools**:
    - [**ffmpeg**](https://ffmpeg.org/)
