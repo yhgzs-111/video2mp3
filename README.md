@@ -11,7 +11,7 @@ This script is developed using **Python** and relies on the following tools:
 
 ## 📂 Source Code
 
-You can download the latest `video2mp3.py` file from the [**Releases**](https://github.com/yhgzs-111/video2mp3/releases/latest/download/video2mp3.py) page. After downloading, you can use it directly (please refer to the [Environment Setup](https://github.com/yhgzs-111/video2mp3/blob/main/README.md#%EF%B8%8F-environment-setup) section for configuration).
+You can download the latest `video2mp3.py` file from the [**Releases**](https://github.com/yhgzs-111/video2mp3/releases/latest/download/video2mp3.py) page. After downloading, you can use it directly (please refer to the Environment Setup section for configuration).
 
 > **System Requirements**: `Windows 10` and above
 
