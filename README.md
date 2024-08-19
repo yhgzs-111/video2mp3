@@ -7,8 +7,6 @@ This script is developed using **Python** and relies on the following tools:
 - **ffmpeg**
 - **ffprobe**
 
-Additionally, the script is packaged into an executable file using **Nuitka**.
-
 # 📥 Download
 
 ## 📂 Source Code
